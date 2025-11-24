@@ -498,6 +498,10 @@ Instructions for submission to Gradescope will be provided on Canvas.
 
 That's it for now...
 
+(by Ibrahim Albool)
+
 ---
 
 ![Willem Dafoe looking up at the assignment](/assets/willem-dafoe-looking-up-600.jpg)
+
+Meme by me, as usual.
