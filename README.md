@@ -1,5 +1,4 @@
-# EECS 118 -- P1: Searching for More Things (Lab 3)
-## Multi-goal & Heuristic Search
+# EECS 118 -- P3: Searching for More Things (Lab 3)
 
 These exercises extend your earlier work on graph search to handle **multi-goal**, **heuristic**, and **greedy** search in the Catman environment.
 
@@ -497,4 +496,8 @@ Instructions for submission to Gradescope will be provided on Canvas.
 
 ---
 
-That's it for now.
+That's it for now...
+
+---
+
+![Willem Dafoe looking up at the assignment](/assets/willem-dafoe-looking-up-600.jpg)
