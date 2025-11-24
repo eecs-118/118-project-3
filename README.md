@@ -1,4 +1,4 @@
-# EECS 118 -- P3: Searching for More Things (Lab 3)
+# EECS 118 -- P3: Searching for More Things
 
 These exercises extend your earlier work on graph search to handle **multi-goal**, **heuristic**, and **greedy** search in the Catman environment.
 
